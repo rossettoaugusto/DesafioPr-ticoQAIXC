@@ -26,7 +26,7 @@ Resultado esperado vs atual
 
 Evidências técnicas do DevTools
 
-📄 Relatório em PDF: Evidencias.pdf
+📄 Relatório em PDF: Evidências Parte A - Desafio IXC QA.pdf
 
 
 
