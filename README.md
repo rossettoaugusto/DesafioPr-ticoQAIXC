@@ -6,6 +6,8 @@ Parte A: Testes Web (Swag Labs) – Exploratório + DevTools
 
 Parte B: Testes de API (Restful Booker)
 
+
+
 🔹 Parte A — Swag Labs (Web)
 
 Foram realizados testes com:
@@ -24,8 +26,9 @@ Resultado esperado vs atual
 
 Evidências técnicas do DevTools
 
-📄 Relatório em PDF: docs/ParteA-Bugs.pdf
-📸 Evidências: docs/evidencias/
+📄 Relatório em PDF: Evidencias.pdf
+
+
 
 🔹 Parte B — API (Restful Booker)
 
@@ -39,17 +42,9 @@ GET /booking/{id} – validação da reserva
 
 Assertions automatizadas no Postman
 
-📁 Collection Postman: postman/Restful-Booker-Collection.json
+📁 Collection Postman: DesafioIXC.postman_collection.json
 
-📂 Estrutura do Repositório
-📁 docs/
-   ├── ParteA-Bugs.pdf
-   └── evidencias/
 
-📁 postman/
-   └── Restful-Booker-Collection.json
-
-📄 README.md
 
 🧩 Habilidades Demonstradas
 
@@ -64,6 +59,8 @@ Testes de API
 Uso de Postman
 
 Organização e documentação
+
+
 
 ✔ Status
 
