@@ -40,6 +40,8 @@ POST /booking – criação de reserva
 
 GET /booking/{id} – validação da reserva
 
+OBS: informar nas variavies da collection no campo idReserva o valor gerado no campo bookingid da execucao da API POST /booking
+
 Assertions automatizadas no Postman
 
 📁 Collection Postman: DesafioIXC.postman_collection.json
