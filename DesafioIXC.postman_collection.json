@@ -184,7 +184,7 @@
 	"variable": [
 		{
 			"key": "baseURL",
-			"value": "",
+			"value": "https://restful-booker.herokuapp.com",
 			"type": "default"
 		},
 		{
