@@ -40,7 +40,7 @@ POST /booking – criação de reserva
 
 GET /booking/{id} – validação da reserva
 
-OBS: informar nas variavies da collection no campo idReserva o valor gerado no campo bookingid da execucao da API POST /booking
+OBS: executar conforme a sequencia acima 
 
 Assertions automatizadas no Postman
 
